@@ -3,7 +3,7 @@ from enum import Enum
 
 token = "450009427:AAGn13bqoPpjo4w-W-bzGqMPVBP26CM0XBg"
 url_random = "https://source.unsplash.com/random"
-url_collection = "https://source.unsplash.com/featured/?"
+url_collection = "https://source.unsplash.com/1600x900/?"
 
 db_file = "database.vdb"
 class States(Enum):
